@@ -1,6 +1,6 @@
 Algumas informações precisa pegar em discord.js TOKEN = valor/ CLIENT_ID = valor/ GUILD_ID =valor (id de Discord) 
 que são informações privadas e não pode ser vazadas.
-e instalar no terminal do seu VisualCode em colocar em (npm install dotenv) 
+e instalar no terminal do seu VisualCode e colocar npm install dotenv 
  
  apos cria dois arquivos com seguintes nomes
 
