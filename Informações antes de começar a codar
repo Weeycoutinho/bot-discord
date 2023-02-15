@@ -7,6 +7,6 @@ e instalar no terminal do seu VisualCode e colocar npm install dotenv
  .env (aqui jogamos a seguintes informações)
 - TOKEN = valor
 - CLIENT_ID = valor 
--GUILD_ID =valor (id de Discord)
+- GUILD_ID =valor (id de Discord)
  
  .gitignore (aqui são arquvivos que você quer ocultar apos subir no GitHub)
